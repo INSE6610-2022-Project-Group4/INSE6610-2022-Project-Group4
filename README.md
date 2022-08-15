@@ -1,5 +1,10 @@
 # INSE6610-2022-Project-Group4
-A comprehensive review of Cyber-attacks: Case studies on The Melissa Virus, Target (2013), and JP Morgan (2014)
+A comprehensive review of Cyber-attacks: Case studies on 
+
+1. JP Morgan (2014)
+2. The Melissa Virus 
+3. Target (2013) 
+
 
 This document provides the description of our group project for the INSE 6610 course under the guidance of our instructor, Professor Ivan Pustogarov. (Summer 2022, Concordia University).
 
